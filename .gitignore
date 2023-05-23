@@ -11,8 +11,12 @@ arlie_lic_comparison.ipynb
 
 # ignore previous outputs
 outputs/*
+outputs/**
+!outputs/IW26010716_ID232808_arlie/
 !outputs/.gitkeep 
 
 # ignore previous results
 results/*
+results/**
+!results/request_20230523_165714/
 !results/.gitkeep 
