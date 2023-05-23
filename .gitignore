@@ -1,0 +1,18 @@
+# ignore all notepad++ backup files
+*.bak
+
+# ignore checkpoints
+.ipynb_checkpoints/
+
+# ignore comparison lic data and notebook from other project
+licmonitoring/
+geometries/
+arlie_lic_comparison.ipynb
+
+# ignore previous outputs
+outputs/*
+!outputs/.gitkeep 
+
+# ignore previous results
+results/*
+!results/.gitkeep 
